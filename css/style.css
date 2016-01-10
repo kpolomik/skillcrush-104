@@ -1,5 +1,18 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Karen P advice styling **/
+.karenp-advice {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: lighter;
+}
+
+.karenp-advice h1 {
+	color: green;
+}
+
+/** End Karen P advice styling **/
+
+
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
